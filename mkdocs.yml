@@ -1,10 +1,10 @@
 site_name: 'Optimization for Biodiversity Conservation Decision-Making'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
+site_description: 'Repo for Optimization for Biodiversity Conservation Decision-Making'
 site_author: Cassidy Buhler
 site_url: https://cu-esiil.github.io/opt-decision-making
 
 # Repository
-repo_name: Postdoc_OASIS
+repo_name: opt-decision-making
 repo_url: https://github.com/CU-ESIIL/opt-decision-making
 edit_uri: edit/main/docs/
 # Copyright
