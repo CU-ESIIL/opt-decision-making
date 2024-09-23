@@ -1,17 +1,21 @@
-# [Your Name]
+# Optimization for Biodiversity Conservation Decision-Making 
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the Optimization for Biodiversity Conservation Decision-Making repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). 
+
 
 ## Your Project
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+This project utilizes computational tools to support spatial planning and decision-making for protected areas. We leverage more flexible optimization frameworks that address environmental goals while also prioritizing the needs and rights of those affected by these decisions. The goal of this work is to deliver open science decision tools that 1) facilitate and promote the inclusion of state-of-the-art optimization methods to a wide ecological audience 2) are better designed to yield more equitable solutions and 3) effectively communicate the framework and results to communities impacted by these decisions.
 
 ## Project Proposal
 
 [Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Collaborators
-- ...
+
+- **Dr. Cassidy Buhler**: [Website.](https://cassiebuhler.github.io/)
+- **Dr. Carl Boettiger**: [Website.](https://www.carlboettiger.info/)
+
 
 ## Code Repository
 
