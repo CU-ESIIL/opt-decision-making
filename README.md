@@ -2,7 +2,7 @@
 
 # Optimization, Open Science, and AI for Biodiversity Conservation Decision-Making 
 
-Welcome to the Optimization & AI for Biodiversity Conservation Decision-Making repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). 
+Welcome to the Optimization, Open Science, and AI for Biodiversity Conservation Decision-Making repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). 
 
 ## The Project 
 This project utilizes open science, optimization, and AI to support planning and decision-making for protected areas.
