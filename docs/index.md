@@ -1,69 +1,41 @@
-# Optimization for Biodiversity Conservation Decision-Making 
+# Optimization, Open Science, and AI for Biodiversity Conservation Decision-Making 
 
-Welcome to the Optimization for Biodiversity Conservation Decision-Making repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). 
+Welcome to the Optimization, Open Science, and AI for Biodiversity Conservation Decision-Making repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). 
 
-
-## Your Project
-
-This project utilizes computational tools to support spatial planning and decision-making for protected areas. We leverage more flexible optimization frameworks that address environmental goals while also prioritizing the needs and rights of those affected by these decisions. The goal of this work is to deliver open science decision tools that 1) facilitate and promote the inclusion of state-of-the-art optimization methods to a wide ecological audience 2) are better designed to yield more equitable solutions and 3) effectively communicate the framework and results to communities impacted by these decisions.
+## The Project 
+This project utilizes open science, optimization, and AI to support planning and decision-making for protected areas.
 
 ## Project Proposal
 
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+The ongoing biodiversity crisis is rapidly escalating with alarming rates of ecosystem deterioration and species extinction. In the face of biodiversity loss, decision-support software allows scientists and policymakers to model, monitor, and analyze ecological data, facilitating more informed and timely decisions for conservation and restoration efforts. However, software that relies on closed-platform data restricts the user's ability to dissect and extract specific information, ultimately reducing accessibility and limiting innovation.
 
-## Collaborators
+Our goal is to deliver customizable and interactive open science decision tools that 1) are better designed to yield more equitable solutions with state-of-the-art optimization methods and 2) effectively communicate the framework and results to communities impacted by these decisions. From exploring local biodiversity to making informed land investment decisions, we aim to promote public engagement and scientific research by enabling users to explore data tailored to their needs. 
 
-- **Dr. Cassidy Buhler**: [Website.](https://cassiebuhler.github.io/)
-- **Dr. Carl Boettiger**: [Website.](https://www.carlboettiger.info/)
+To date, we have developed a cloud-native geospatial visualization tool with chat-driven interfaces for users to map and query California protected land data, enable by open data layers and LLMs. Our decision-support tool will leverage more flexible optimization frameworks that address environmental goals while also prioritizing the needs and rights of those affected by these decisions.
 
+Preliminary results were presented at AGU 2024: [AGU Poster.](https://cassiebuhler.github.io/files/AGU24_poster_web_accessible.pdf)
+
+Our working prototype is hosted on Hugging Face: [California 30x30 Planning & Assessment Prototype](https://huggingface.co/spaces/boettiger-lab/ca-30x30).
+
+<br>
+<p align="center">
+<img width="730" alt="A screenshot of the California 30 by 30 Planning and Assessement Prototype with a map of protected areas, color-coded by year (green for pre-2024, yellow for 2024), toggles for grouping and filtering by attributes, and a donut chart showing 25.2% land protected." src="https://github.com/user-attachments/assets/94332e65-4506-479f-a75b-17387b98b023">
+    <br><em>The California 30 by 30 Planning and Assessement Prototype</em>
+</p>
+
+## Collaborators and Co-Authors 
+
+- **Dr. Cassie Buhler** | [Website](https://cassiebuhler.github.io/) |  ESIIL Postdoc
+- **Dr. Carl Boettiger** | [Website](https://www.carlboettiger.info/) | ESIIL Mentor at UC Berkeley
 
 ## Code Repository
 
-This section of the repository will include all the code developed for the project. You can structure it as follows:
+The code is available at this repository: [California 30x30 GitHub Repository.](https://github.com/boettiger-lab/ca-30x30)
 
-- **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Data Processing**: Scripts for cleaning, merging, and managing datasets.
-- **Visualization**: Code for creating figures, charts, and interactive visualizations.
+- **Data Processing**: [Preprocessing script.](https://github.com/boettiger-lab/ca-30x30/blob/main/preprocess/preprocess.ipynb) 
+- **App**: [Streamlit app script.](https://github.com/boettiger-lab/ca-30x30/blob/main/app/app.py)
 
 ## Meeting Notes and Agendas
 
-Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.
-
-## Contributing to This Repository
-
-We welcome contributions from all group members. To maintain the quality and integrity of the repository, please adhere to the following guidelines:
-
-- Make sure all commits have a clear and concise message.
-- Document any major changes or decisions in the meeting notes.
-- Review and merge changes through pull requests to ensure oversight.
-
-## Getting Help
-
-If you encounter any issues or have questions about how to contribute, please refer to the [ESIIL Support Page](https://esiil.org/support) or contact the repository maintainers directly.
-
-## Customize Your Repository
-
-As a new working group, you'll want to make this repository your own. Here's how to get started:
-
-1. **Edit This Readme**: Replace the placeholder content with information about your specific project. Ensure that the introduction, project overview, and objectives clearly reflect your group's research focus.
-
-2. **Update Group Member Bios**: Add details about each group member's expertise, role in the project, and professional background. Include links to personal or professional web pages to foster community engagement and collaboration.
-
-3. **Organize Your Code**: Structure your codebase in a way that is logical and accessible. Use directories and clear naming conventions to make it easy for all members to find and contribute to different parts of the project.
-
-4. **Document Your Data**: Include a data directory with README files explaining the datasets, sources, and any preprocessing steps. This will help new members understand and work with the project's data effectively.
-
-5. **Outline Your Methods**: Create a detailed METHODS.md file where you describe the methodologies, software, and tools you will be using in your research. This transparency will support reproducibility and collaborative development.
-
-6. **Set Up Project Management**: Utilize the 'Issues' and 'Projects' features on GitHub to track tasks, discuss ideas, and manage your workflow. This can help in maintaining a clear view of progress and priorities.
-
-7. **Add a License**: Choose and include an appropriate open-source license for your project, ensuring that the broader community understands how they can use and contribute to your work.
-
-8. **Create Contribution Guidelines**: Establish a CONTRIBUTING.md file with instructions for members on how to propose changes, submit issues, and contribute code.
-
-9. **Review and Merge Workflow**: Decide on a workflow for reviewing and merging changes. Will you use branch protection? Who will have merge privileges? Document this process to avoid confusion.
-
-10. **Establish Communication Channels**: Beyond GitHub, set up additional communication channels like Slack, Discord, or email lists for quick and informal discussions.
-
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!
+We managed and organize our project in the [CA-30x30 repository](https://github.com/boettiger-lab/ca-30x30), where ongoing work and project milestones are tracked in the [issues.](https://github.com/boettiger-lab/ca-30x30/issues)
 
