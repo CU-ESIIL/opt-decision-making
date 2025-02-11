@@ -5,7 +5,7 @@
 Welcome to the Optimization, Open Science, and AI for Biodiversity Conservation Decision-Making repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). 
 
 ## The Project 
-This project utilizes open science, optimization, and AI to support planning and decision-making for protected areas.
+This project utilizes open science, optimization, and AI to support spatial planning and decision-making for protected areas. In particular, we focus on building a decision-support tool for the 30x30 initiative (preserving 30% of the Earth’s lands and waters by 2030).
 
 ## Project Proposal
 
